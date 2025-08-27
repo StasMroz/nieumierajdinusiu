@@ -1,2 +1,2 @@
-# nieumierajdinusiu
-program ratujący dinozaury
+# Nie Umieraj Dinusiu Astralny
+Program ratujący dinozaury NUDA
